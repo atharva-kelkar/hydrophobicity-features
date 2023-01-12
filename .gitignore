@@ -1,0 +1,16 @@
+sam_analysis/core/__pycache__/
+sam_analysis/drivers/__pycache__/
+sam_analysis/globals/__pycache__/
+sam_analysis/indus/__pycache__/
+sam_analysis/ml_tools/__pycache__/
+sam_analysis/notebooks/__pycache__/
+sam_analysis/plotting/__pycache__/
+sam_analysis/raw_data/__pycache__/
+sam_analysis/sam/__pycache__/
+sam_analysis/testing/__pycache__/
+sam_analysis/water/__pycache__/
+sam_analysis/notebooks/
+sam_analysis/plotting/
+sam_analysis/raw_data/
+sam_analysis/testing/
+.vscode/
